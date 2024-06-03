@@ -28,4 +28,5 @@
 > **Bedrock 版本**：**__bedrock.yamoto.xyz:40049__**  
 ### 其他鏈接：
 > **Discord 伺服器加入**：**__https://discord.com/invite/qwwsEn8tCv__**  
-> **伺服器 Wiki 維基**：**__https://yamoto.gitbook.io/wiki__**  
+> **伺服器維基 Wiki**：**__https://page.yamoto.xyz__**  
+> **伺服器狀態 Status** : **__https://status.yamoto.xyz__**
